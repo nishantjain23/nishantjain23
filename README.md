@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Welcome to my profile :)
+I am Nishant Jain, a dedicated third-year student pursuing B.Tech in Computer Science at SRM Institute of Science and Technology. I am passionately engaged in the domains of web development and Machine Learning, consistently striving to enhance my skills and broaden my knowledge in these fields.
 
 ## 💢Languages and Tools:
 
